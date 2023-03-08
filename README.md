@@ -1,1 +1,1 @@
-# cypress.js
+# cypress
