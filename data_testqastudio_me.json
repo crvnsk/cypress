@@ -1,0 +1,11 @@
+{
+  "main_url": "https://testqastudio.me/",
+  "billing_first_name": "Иван",
+  "billing_last_name": "Поддубный",
+  "billing_address_1": "д.8, ул.Куприна",
+  "billing_city":"Novosibirsk",
+  "billing_state":"НСО",
+  "billing_postcode":"630015",
+  "billing_phone":"79134634033",
+  "billing_email":"test@test.ru"
+}

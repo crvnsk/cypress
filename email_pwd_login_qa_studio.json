@@ -1,0 +1,11 @@
+{
+  "main_url": "https://login.qa.studio/",
+  "not_validate_main_url": "http://login1.qa.studio/",
+  "validate_email": "german@dolnikov.ru",
+  "validate_pwd": "iLoveqastudio1",
+  "random_email": "test@test.ru",
+  "not_validate_email": "Ferman@Folnikov.ru",
+  "propis_validate_email": "GerMan@Dolnikov.ru",
+  "not_at_validate_email": "german",
+  "not_validate_pwd": "Iloveqastudio1"
+}
